@@ -17,7 +17,7 @@ Future<void> main() async {
       Task.create(name: 'Take Vitamins', iconName: AppAssets.vitamins),
       Task.create(name: 'Cycle to Work', iconName: AppAssets.bike),
       Task.create(name: 'Wash Your Hands', iconName: AppAssets.washHands),
-      Task.create(name: 'Wear a Mask', iconName: AppAssets.mask),
+      Task.create(name: 'Don\'t Wear a Mask', iconName: AppAssets.mask),
       Task.create(name: 'Brush Your Teeth', iconName: AppAssets.toothbrush),
       Task.create(name: 'Floss Your Teeth', iconName: AppAssets.dentalFloss),
     ],
